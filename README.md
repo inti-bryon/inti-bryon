@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Inti ( @inti-bryon )
 
-- 👀 I’m interested in soccer, football, basketball, baseball, hiking, bike riding, gaming, xbox, C#, HTML, .NET, web development, app development, security and having fun 😊😁😎
+- 👀 I’m interested in soccer, football, basketball, baseball, hiking, bike riding, gaming, xbox, C#, C++, HTML, .NET, web development, app development, security and having fun 😊😁😎
 
 - 🌱 I’m currently learning .NET MAUI and taking a FUll Stack Developer course on LinkedIn Learning 🌱
 
