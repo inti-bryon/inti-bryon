@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in soccer, football, basketball, baseball, hiking, bike riding, gaming, xbox, C#, C++, HTML, .NET, web development, app development, security and having fun 😊😁😎
 
-- 🌱 I’m currently learning .NET MAUI and taking a FUll Stack Developer course on LinkedIn Learning 🌱
+- 🌱 I’m currently learning and working with the OpenAI API.  🌱
 
 <!-- 💞️ I’m looking to collaborate on -->
 - 📫 Go to my site, https://intibryon.com/, for my contact info
